@@ -210,7 +210,6 @@ payload:
   - '+.snapdeal.com'
   - '+.softonic.com'
   - '+.sourceforge.net'
-  - '+.speedtest.net'
   - '+.spiegel.de'
   - '+.spotify.com'
   - '+.spotscenered.info'
